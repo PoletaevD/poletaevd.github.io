@@ -1,0 +1,12 @@
+{
+    "name": "Clock.Runtime",
+    "rootNamespace": "Clock",
+    "references": [
+        "DOTween.Modules",
+        "Unity.Addressables",
+        "Unity.ResourceManager",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "Zenject"
+    ]
+}
