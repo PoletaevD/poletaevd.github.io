@@ -10,6 +10,11 @@
 /[Bb]uild/
 /[Bb]uilds/
 
+# Generated local Addressables content (rebuild for each target)
+/Assets/AddressableAssetsData/*/*.bin*
+/Assets/StreamingAssets/aa/
+/Assets/StreamingAssets/aa.meta
+
 # Third-party tools directories
 .vs/
 .vscode/
