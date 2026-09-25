@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Local Gameplay
+  m_EditorClassIdentifier: 
+  m_GroupName: Local Gameplay
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 287970b8ea9436a458ca64838143c19c
+  m_SerializeEntries:
+  - m_GUID: a6e7bb23c771265488c6db94be4e0e38
+    m_Address: clock/gameplay
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 02dd7c328599dcd4b855402450683a11, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 638706417d343354a9aba6dcadab5314, type: 2}
+    - {fileID: 11400000, guid: 380cc59794dd97d4c88c9416f2194fd7, type: 2}
